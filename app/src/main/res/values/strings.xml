@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Json-Parser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">Clave prestamo</string>
+    <string name="fecha">Fecha</string>
+    <string name="nombre_sol">Solicitante</string>
+    <string name="area_sol">Area</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="recibido">Recibido</string>
+    <string name="entregado">Entregado</string>
+    <string name="title_activity_vista_indiv">vista_indiv</string>
+</resources>
